@@ -1,0 +1,9 @@
+c:\users\delmi\onedrive\documentos\visual studio 2015\Projects\PCView\PCView\bin\Debug\PCView.exe.config
+c:\users\delmi\onedrive\documentos\visual studio 2015\Projects\PCView\PCView\bin\Debug\PCView.exe
+c:\users\delmi\onedrive\documentos\visual studio 2015\Projects\PCView\PCView\bin\Debug\PCView.pdb
+c:\users\delmi\onedrive\documentos\visual studio 2015\Projects\PCView\PCView\obj\Debug\PCView.csprojResolveAssemblyReference.cache
+c:\users\delmi\onedrive\documentos\visual studio 2015\Projects\PCView\PCView\obj\Debug\PCView.Form.resources
+c:\users\delmi\onedrive\documentos\visual studio 2015\Projects\PCView\PCView\obj\Debug\PCView.Properties.Resources.resources
+c:\users\delmi\onedrive\documentos\visual studio 2015\Projects\PCView\PCView\obj\Debug\PCView.csproj.GenerateResource.Cache
+c:\users\delmi\onedrive\documentos\visual studio 2015\Projects\PCView\PCView\obj\Debug\PCView.exe
+c:\users\delmi\onedrive\documentos\visual studio 2015\Projects\PCView\PCView\obj\Debug\PCView.pdb
